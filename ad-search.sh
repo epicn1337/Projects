@@ -1,5 +1,3 @@
-# Creator: ChatGBT
-
 #!/bin/bash
 
 # This script scans for an active directory on a target network
